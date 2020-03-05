@@ -57,3 +57,22 @@
   font-weight: bold;
   font-style: normal;
 }
+// PTSans
+@font-face {
+  font-family: 'PTSans';
+  src:  url('../fonts/PT_Sans/PTSans-Bold.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'PTSans';
+  src: url('../fonts/PT_Sans/PT_Sans/PTSans-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'PTSans';
+  src: url('../fonts/PT_Sans/PTSans-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
