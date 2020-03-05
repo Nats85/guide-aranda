@@ -1,6 +1,6 @@
 ---
 title: Layouts
-info: Style.
+info: Style
 ---
 
 
