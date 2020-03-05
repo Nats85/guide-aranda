@@ -1,5 +1,5 @@
 ---
-title: Overview
+title: Get Started
 layout: doc
 info: Welcome to the Aranda Design System.
 nav: false
