@@ -8,6 +8,14 @@
     <li><a href="{{ site.baseurl }}/index.html"{% if page.url == '/' %} class="active"{% endif %}>Get Started</a></li>
   </ul>
 
+  {% assign about = site.docs | where: 'type', 'about' | sort: 'url' %}
+  <div class="group">
+    <div class="group_title">About</div>
+    <ul>{% for doc in about %}
+      <li><a href="{{ site.baseurl }}{{ doc.url }}"{% if doc.url == page.url %} class="active"{% endif %}>{{ doc.title }}</a></li>
+    {% endfor %}</ul>
+  </div>
+
   {% assign style = site.docs | where: 'type', 'style' | sort: 'url' %}
   <div class="group">
     <div class="group_title">Style</div>
