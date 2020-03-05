@@ -16,10 +16,10 @@
     {% endfor %}</ul>
   </div>
 
-  {% assign foundations = site.docs | where: 'type', 'foundation' | sort: 'url' %}
+  {% assign library = site.docs | where: 'type', 'library' | sort: 'url' %}
   <div class="group">
-    <div class="group_title">Foundations</div>
-    <ul>{% for doc in foundations %}
+    <div class="group_title">Library</div>
+    <ul>{% for doc in library %}
       <li><a href="{{ site.baseurl }}{{ doc.url }}"{% if doc.url == page.url %} class="active"{% endif %}>{{ doc.title }}</a></li>
     {% endfor %}</ul>
   </div>
