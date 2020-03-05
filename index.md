@@ -1,7 +1,7 @@
 ---
 title: Overview
 layout: doc
-info: Welcome to the Aranda Design System.
+info: Bienvenidos al Sistema de Diseño Aranda.
 nav: false
 ---
 
