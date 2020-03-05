@@ -56,6 +56,12 @@ defaults:
       type: doc
   -
     scope:
+      path: "_docs/about"
+    values:
+      layout: doc
+      type: about
+  -  
+    scope:
       path: "_docs/style"
     values:
       layout: doc
