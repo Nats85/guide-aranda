@@ -68,10 +68,10 @@ defaults:
       type: library
   -
     scope:
-      path: "_docs/foundations"
+      path: "_docs/tools"
     values:
       layout: doc
-      type: foundation
+      type: tools
   -
     scope:
       path: "_docs/components"
