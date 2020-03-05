@@ -1,6 +1,6 @@
 ---
 title: Introduccion
-info: Bienvenidos al Sistema de Diseño Aranda.
+info: 
 nav: false
 ---
 
