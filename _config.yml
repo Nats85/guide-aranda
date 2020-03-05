@@ -73,38 +73,6 @@ defaults:
       layout: doc
       type: tools
   -
-    scope:
-      path: "_docs/components"
-    values:
-      layout: doc
-      type: component
-  -
-    scope:
-      path: "_docs/templates"
-    values:
-      layout: doc
-      type: template
-  -
-    scope:
-      path: "_docs/sample-pages"
-    values:
-      layout: doc
-      type: sample
-  -
-    scope:
-      path: "src/patterns"
-    values:
-      layout: pattern
-      type: pattern
-      maturity: planned
-      title: Not Assigned
-      styles: Not Assigned
-  -
-    scope:
-      path: "src/patterns/sample-pages"
-    values:
-      type: sample
-      title: Not Assigned
 
 ###################################
 ## Pattern Settings
