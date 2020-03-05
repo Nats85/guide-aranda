@@ -6,7 +6,7 @@ control: exclude
 ---
 <style>
   * {
-    font-family: 'Roboto Slab' !important;
+    font-family: 'PT Sans Regular' !important;
     word-wrap: break-word;
   }
   p {
@@ -14,7 +14,7 @@ control: exclude
     margin-bottom: 0;
     padding-bottom: 1rem;
     font-size: 18px !important;
-    
+
   }
 </style>
 
