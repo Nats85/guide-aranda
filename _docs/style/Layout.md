@@ -1,6 +1,6 @@
 ---
 title: Layouts
-info: Brand assets used in this system.
+info: Style.
 ---
 
 
