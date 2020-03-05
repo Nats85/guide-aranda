@@ -1,14 +1,22 @@
-# Aranda Style Guide
+---
+title: Overview
+layout: doc
+info: Welcome to the Aranda Design System.
+nav: false
+---
 
-👋 Un sistema de diseño fácil de usar, que tiene como objetivo presentar los elementos básicos de código abierto para cada una de nuestras herramientas a travez del lenguaje visual. Permitiendo así agrupar los principios esenciales de la interfaz y facilitar el proceso de desarrollos de nuestros productos.
+<h1>👋</h1>
 
-## Como?
+Un sistema de diseño fácil de usar, que tiene como objetivo presentar los elementos básicos de código abierto para cada una de nuestras herramientas a travez del lenguaje visual. Permitiendo así agrupar los principios esenciales de la interfaz y facilitar el proceso de desarrollos de nuestros productos.
+
+
+## ¿Como?
 
 La idea con este sistema es optimizar el tiempo de construcción de nuestras herramientas a través de los siguientes aspectos:
 
-- Fácil y rápido de usar,
-- Simple de mantener,
-- Coincidencia del flujo actual de trabajo,
+- Fácil y rápido de usar.
+- Simple de mantener.
+- Coincidencia del flujo actual de trabajo.
 - Flexible para usar en una variedad de proyectos.
 
 ## Requerimientos
@@ -33,16 +41,16 @@ Para comenzar a usar esta herramienta, puedes consultar estas páginas útiles:
 
 ___
 
-**This tool was originally published in the public domain as 'Living StyleGuide' on 12 September 2016 by [Matthew Elsom](https://matthewelsom.com)**
+
+**This tool was originally published in the public domain as 'Living Styleguide' on 12 September 2016 by [{{ site.sg_author }}](https://matthewelsom.com)**
 
 It's name was changed to 'Jekyll Style Guide' in 2018, and it's license was updated.
 
-It was last updated in 2018 by Matthew Elsom.
+It was last updated on {{ site.time | date: "%b %-d, %Y"  }} by {{ site.sg_author }}.
 
 Copyright © 2016 - 2018 & Beyond. All Rights Reserved.
 
-**This tool has been tested for Google Chrome (Mac) v67+ and iOS Safari. Use with Caution.**
-
+><i class="icon red" data-icon="warning"></i>This tool has been tested for Google Chrome (Mac) v67+ and iOS Safari. Use with Caution.
 
 
 # License
@@ -51,7 +59,7 @@ This tool is free for everyone to use, and modify, but don't try and sell it.
 Available under [Apache license version 2.0](https://www.apache.org/licenses/LICENSE-2.0.html).
 
 
-It was built using [Jekyll](https://jekyll.rb), it's [design principle](https://jekyllstyleguide.com/docs/about/02-design-principle.html) is based on the [US Design Standards](https://designsystem.digital.gov/design-principles/), and the css architecture is based on the [Simple SCSS Playbook](https://matthewelsom.com/blog/simple-scss-playbook.html).
+It was built using [Jekyll](https://jekyll.rb), it's [design principle]({{ site.baseurl }}/docs/about/02-design-principle.html) is based on the [US Design Standards](https://designsystem.digital.gov/design-principles/), and the css architecture is based on the [Simple SCSS Playbook](https://matthewelsom.com/blog/simple-scss-playbook.html).
 
 [View License File](https://github.com/matthewelsom/jekyll-style-guide/blob/master/LICENSE)
 
