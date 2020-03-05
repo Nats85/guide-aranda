@@ -18,6 +18,11 @@ control: exclude
   }
 </style>
 
+ABCDEFGHIJKLMNÑOPQRSTUVWXYZ<br>
+
+abcdefghijklmnñopqrstuvwxyz<br>
+
+0123456789
  AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz
 1234567890
 
