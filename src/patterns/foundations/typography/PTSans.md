@@ -5,7 +5,7 @@ maturity: ready
 control: exclude
 ---
 <style>
-  * {
+   {
     font-family: 'PTSans-Regular' !important;
     word-wrap: break-word;
   }
