@@ -17,11 +17,3 @@ control: exclude
 
   }
 </style>
-
-## ABCDEFGHIJKLMNÑOPQRSTUVWXYZ<br>
-
-# abcdefghijklmnñopqrstuvwxyz<br>
-
-# 0123456789
-
-The quick brown fox jumps over the lazy dog.
