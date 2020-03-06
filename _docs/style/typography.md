@@ -6,6 +6,14 @@ info: PT Sans es la fuente seleccionada para todos nuestros productos de Aranda.
 {% include pattern_block.html url='/src/patterns/foundations/typography/PTSans.html' %}
 
 
+## ABCDEFGHIJKLMNÑOPQRSTUVWXYZ<br>
+
+# abcdefghijklmnñopqrstuvwxyz<br>
+
+# 0123456789
+
+The quick brown fox jumps over the lazy dog.
+
 ---
 
 ## Copryright
