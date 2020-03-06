@@ -1,5 +1,5 @@
 ---
-title: Layouts
+title: Iconography
 info: Style
 ---
 
