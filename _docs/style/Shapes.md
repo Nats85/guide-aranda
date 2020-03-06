@@ -7,20 +7,20 @@ info: Style
 
 # Spacing layout
 
-![layout_1]({{ site.baseurl }}/styleguide/images/layout_1.jpg)
+![layout_1]({{ site.baseurl }}/styleguide/images/spacinglayout.png)
 
 # Spacing card
 
-![layout_2]({{ site.baseurl }}/styleguide/images/layout_2.jpg)
+![layout_2]({{ site.baseurl }}/styleguide/images/spacingcard.png)
 
 # Spacing scale
 
-![layout_3]({{ site.baseurl }}/styleguide/images/layout_3.jpg)
+![layout_3]({{ site.baseurl }}/styleguide/images/spacingscale.png)
 
 # Shades
 
-![layout_4]({{ site.baseurl }}/styleguide/images/layout_4.jpg)
+![layout_4]({{ site.baseurl }}/styleguide/images/shades.png)
 
 # Rounded edges
 
-![layout_5]({{ site.baseurl }}/styleguide/images/layout_5.jpg)
+![layout_5]({{ site.baseurl }}/styleguide/images/roundededges.png)
