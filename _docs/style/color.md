@@ -1,11 +1,7 @@
 ---
 info: Style
 title: Color
-------
-
-{% include pattern_block.html url='/src/patterns/foundations/color/primary-colors.html' %}
-
-{% include pattern_block.html url='/src/patterns/foundations/color/accent-colors.html' %}
+---
 
 
 {% include pattern_block.html url='/src/patterns/foundations/color/aranda-field-service.html' %}
