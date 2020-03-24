@@ -1,5 +1,5 @@
 ---
-title: Feedback
+title: Aranda Query Manager
 styles: base/variables.scss
 maturity: draft
 control: exclude
