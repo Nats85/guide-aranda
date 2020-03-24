@@ -1,5 +1,5 @@
 ---
-title: Feedback
+title: Aranda Device Management
 styles: base/variables.scss
 maturity: draft
 control: exclude
