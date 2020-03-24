@@ -1,8 +1,7 @@
 ---
 info: Style
 title: Color
----
-
+------
 
 {% include pattern_block.html url='/src/patterns/foundations/color/aranda-field-service.html' %}
 
