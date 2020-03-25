@@ -1,7 +1,7 @@
 ---
 title: Secondary colors (Information, graphics)
 styles: base/variables.scss
-maturity: draft
+maturity: ready
 control: exclude
 colors:
   - name: $bluesec
