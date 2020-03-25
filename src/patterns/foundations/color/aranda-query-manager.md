@@ -1,7 +1,7 @@
 ---
 title: Aranda Query Manager
 styles: base/variables.scss
-maturity: draft
+maturity: ready
 control: exclude
 colors:
   - name: $lila
