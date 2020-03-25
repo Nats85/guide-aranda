@@ -1,7 +1,7 @@
 ---
 title: Secondary colors (Status)
 styles: base/variables.scss
-maturity: draft
+maturity: ready
 control: exclude
 colors:
   - name: $redsec
