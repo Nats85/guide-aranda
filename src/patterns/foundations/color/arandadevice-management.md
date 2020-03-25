@@ -1,7 +1,7 @@
 ---
 title: Aranda Device Management
 styles: base/variables.scss
-maturity: draft
+maturity: ready
 control: exclude
 colors:
   - name: $aqua
