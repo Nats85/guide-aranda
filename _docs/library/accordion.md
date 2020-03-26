@@ -1,6 +1,6 @@
 ---
 title: Accordion
-info: Lists are used to group and order text.
+info: Library
 ---
 
 {% include pattern_block.html url='/src/patterns/components/list/unordered.html' %}
