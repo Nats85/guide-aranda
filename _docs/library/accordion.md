@@ -1,5 +1,5 @@
 ---
-title: List
+title: Accordion
 info: Lists are used to group and order text.
 ---
 
