@@ -1,6 +1,6 @@
 ---
-title: Button
-info: Use buttons to signal actions.
+title: Set de botones
+info: Library
 nav: true
 ---
 
