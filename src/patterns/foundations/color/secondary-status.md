@@ -2,7 +2,6 @@
 title: Secondary colors (Status)
 styles: base/variables.scss
 maturity: ready
-control: exclude
 colors:
   - name: $redsec
     hex: '#ee3557'
@@ -30,8 +29,7 @@ colors:
   list-style: none;
 }
 li {
-  flex: 1 0 20%;
-  margin: 1rem;
+    flex: 1 0 20%;
 }
 .color {
   width: 100%;
