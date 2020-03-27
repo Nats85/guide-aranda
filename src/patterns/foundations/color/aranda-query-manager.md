@@ -2,7 +2,6 @@
 title: Aranda Query Manager
 styles: base/variables.scss
 maturity: ready
-control: exclude
 colors:
   - name: $lila
     hex: '#73a1d1'
@@ -19,8 +18,7 @@ colors:
   list-style: none;
 }
 li {
-  flex: 1 0 20%;
-  margin: 1rem;
+    flex: 1 0 20%;
 }
 .color {
   width: 100%;
