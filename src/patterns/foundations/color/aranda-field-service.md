@@ -2,7 +2,6 @@
 title: Aranda Field Service
 styles: base/variables.scss
 maturity: ready
-control: exclude
 colors:
   - name: $green
     hex: '#00a99d'
@@ -21,8 +20,7 @@ colors:
   list-style: none;
 }
 li {
-  flex: 1 0 20%;
-  margin: 1rem;
+    flex: 1 0 20%;
 }
 .color {
   width: 100%;
