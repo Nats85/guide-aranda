@@ -2,7 +2,6 @@
 title: Aranda Device Management
 styles: base/variables.scss
 maturity: ready
-control: exclude
 colors:
   - name: $aqua
     hex: '#00A1C6'
@@ -25,8 +24,7 @@ colors:
   list-style: none;
 }
 li {
-  flex: 1 0 20%;
-  margin: 1rem;
+    flex: 1 0 20%;
 }
 .color {
   width: 100%;
