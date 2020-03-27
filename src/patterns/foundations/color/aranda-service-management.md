@@ -2,7 +2,6 @@
 title: Aranda Service Management
 styles: base/variables.scss
 maturity: ready
-control: exclude
 colors:
   - name: $salmon
     hex: '#f4846e'
