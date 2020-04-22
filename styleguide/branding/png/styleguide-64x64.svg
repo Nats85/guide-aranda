@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#Trazado_179_2_);}
+	.st1{fill:#FFFFFF;stroke:#232438;}
+	.st2{fill:none;stroke:#50D2C2;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#722BF4;stroke-width:0.75;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#ED91FF;stroke-width:0.75;stroke-miterlimit:10;}
+	.st5{opacity:0.5;clip-path:url(#Trazado_179_2_);}
+	.st6{opacity:0.63;fill:#CCD3DD;enable-background:new    ;}
+	.st7{fill:none;stroke:#50D2C2;stroke-width:0.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st8{opacity:0.63;clip-path:url(#Trazado_179_2_);fill:#CCD3DD;enable-background:new    ;}
+	.st9{opacity:0.63;clip-path:url(#Trazado_179_2_);fill:none;stroke:#CCD3DD;stroke-miterlimit:10;enable-background:new    ;}
+	.st10{clip-path:url(#Trazado_179_2_);fill:#FFFFFF;stroke:#FFFFFF;stroke-width:0.7228;stroke-miterlimit:10;}
+</style>
+<g>
+	<defs>
+		<path id="Trazado_179_1_" d="M0.7,51.5V12.5c0-0.9,1-1.6,2.2-1.6h58.1c1.2,0,2.2,0.7,2.2,1.6v39.1c0,0.9-1,1.6-2.2,1.6H2.9
+			C1.7,53.2,0.7,52.4,0.7,51.5z"/>
+	</defs>
+	<clipPath id="Trazado_179_2_">
+		<use xlink:href="#Trazado_179_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g id="Group-2" transform="translate(186.32 135.42)" class="st0">
+		<g id="Grupo_239" transform="translate(0)">
+			<path id="Trazado_179" class="st1" d="M-185.6-83.9V-123c0-0.9,1-1.6,2.2-1.6h58.1c1.2,0,2.2,0.7,2.2,1.6v39.1
+				c0,0.9-1,1.6-2.2,1.6h-58.1C-184.6-82.3-185.6-83-185.6-83.9z"/>
+		</g>
+	</g>
+	<g class="st0">
+		<line class="st2" x1="3.3" y1="40" x2="41.2" y2="40"/>
+		<line class="st2" x1="45.6" y1="40" x2="60.9" y2="40"/>
+		<line class="st3" x1="3.3" y1="44.4" x2="46.9" y2="44.4"/>
+		<line class="st3" x1="52" y1="44.4" x2="60.9" y2="44.4"/>
+		<line class="st4" x1="3.3" y1="48.7" x2="54.2" y2="48.7"/>
+		<line class="st4" x1="57.3" y1="48.7" x2="60.9" y2="48.7"/>
+	</g>
+	<g id="VisualIcon" transform="translate(95.505 132.611)" class="st5">
+		<g id="VISUAL-ICON_Copy" transform="translate(0 0)">
+			<g id="Group" transform="translate(0 0)">
+				<path id="Path_3" class="st6" d="M-98.8-124.6c30.7-30.8,99.2,2.5,72.3,49.8"/>
+				<path id="Path_2" class="st7" d="M-104.3-129l84.2,58.7"/>
+			</g>
+		</g>
+	</g>
+	<rect x="3.2" y="23" class="st8" width="57.8" height="14.1"/>
+	<rect x="3.3" y="16" class="st8" width="10.5" height="2.7"/>
+	<line class="st9" x1="3.3" y1="21.1" x2="60.9" y2="21.1"/>
+	<polygon class="st10" points="10,31.1 9.9,31.3 8.5,30 9.9,28.8 10,28.9 8.8,30 	"/>
+	<polygon class="st10" points="54,31.1 54.2,31.3 55.6,30 54.2,28.8 54,28.9 55.2,30 	"/>
+</g>
+</svg>
