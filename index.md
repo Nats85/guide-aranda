@@ -5,8 +5,6 @@ info: Sistema de Diseño Aranda.
 nav: false
 ---
 
-<h1>👋</h1>
-
 Un sistema de diseño fácil de usar, que tiene como objetivo presentar los elementos básicos de código abierto para cada una de nuestras herramientas a travez del lenguaje visual. Permitiendo así agrupar los principios esenciales de la interfaz y facilitar el proceso de desarrollos de nuestros productos.
 
 
